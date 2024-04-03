@@ -15,9 +15,6 @@
   <img align="center" alt="HTML Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
-  <img align="center" alt="Jasmine Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jasmine/jasmine-plain.svg">
-  <img align="center" alt="Electron Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg">
-
   <img align="center" alt="Git Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
   <img align="center" alt="Ubuntu Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 </div>
