@@ -6,7 +6,7 @@ location: ~/building-things
 
 <!-- Animação sutil de digitação -->
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=00FF87&center=false&vCenter=true&width=600&lines=PM+by+day%2C+vibe-coding+by+night;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=2000&color=00FF87&center=false&vCenter=true&width=600&lines=PM+by+day%2C+vibe-coding+by+night;" alt="Typing SVG" />
 </p>
 
 ---
